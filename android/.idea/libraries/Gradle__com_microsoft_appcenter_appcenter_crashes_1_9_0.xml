@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.microsoft.appcenter:appcenter-crashes-1.9.0">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-4.6-all/bcst21l2brirad8k2ben1letg/gradle-4.6/caches/transforms-1/files-1.1/appcenter-crashes-1.9.0.aar/c6e1ed3a394a93fd8383600671ef76a4/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/wrapper/dists/gradle-4.6-all/bcst21l2brirad8k2ben1letg/gradle-4.6/caches/transforms-1/files-1.1/appcenter-crashes-1.9.0.aar/c6e1ed3a394a93fd8383600671ef76a4/res" />
+      <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-4.6-all/bcst21l2brirad8k2ben1letg/gradle-4.6/caches/transforms-1/files-1.1/appcenter-crashes-1.9.0.aar/c6e1ed3a394a93fd8383600671ef76a4/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-4.6-all/bcst21l2brirad8k2ben1letg/gradle-4.6/caches/modules-2/files-2.1/com.microsoft.appcenter/appcenter-crashes/1.9.0/2bd7a664ccc896b86913ae97e27c317fda4a284e/appcenter-crashes-1.9.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

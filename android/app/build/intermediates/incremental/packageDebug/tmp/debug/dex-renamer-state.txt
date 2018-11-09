@@ -1,0 +1,4 @@
+#Tue Nov 06 01:29:32 WAT 2018
+base.0=/home/iampeters/Desktop/Projects/pentracode/android/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
